@@ -1,1 +1,1 @@
-# connected_devices
+# smartdevice
